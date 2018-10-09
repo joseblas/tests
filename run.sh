@@ -1,3 +1,3 @@
-git clone git@github.com:jenkinsci/workflow-cps-plugin.git
-cd workflow-cps-plugin
-mvn clean compile
+#!/bin/bash
+git clone git@github.com:mkyong/spring3-mvc-maven-xml-hello-world.git
+
